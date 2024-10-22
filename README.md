@@ -1,2 +1,3 @@
 Hello and welcome to my GitHub profile,
-I call myself Alexander Brightwater. I'm an apprentice IT Specialist for a major gaming firm, although not as a programmer, but as a systems integrator.
+I am a GNU+Linux enthusiast. I love everything related to comuters and am heavily interested into selfhosting as much stuff as I can.
+Also I like minecraft and am the creator of Super Visual, a modrinth Modpack as well as Rinth DL which is a modrinth modpack downloader. 
